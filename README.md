@@ -1,6 +1,3 @@
-<p align="center">
-  <img width="100%" src="https://svg-banners.vercel.app/api?type=origin&text=TO-DO%20LIST%20APP&width=900&height=300" />
-</p>
 
 # ✅ To-Do List (Python CLI)
 
