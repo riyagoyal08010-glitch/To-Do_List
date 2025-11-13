@@ -12,6 +12,7 @@ while True:
         print("\nNo task added yet!")
    elif a ==2:
      b = input("\nEnter the task you want to achieve: ")
+    
      tasks.append(b)
    
      print(f"\nYour desired task : {b} has been added in list successfully")
